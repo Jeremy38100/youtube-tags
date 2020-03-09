@@ -1,0 +1,21 @@
+{
+  "name": "youtube-tags",
+  "version": "1.0.0",
+  "description": "Retrieve youtube video tags from video id - CLI or dependency in project",
+  "main": "index.js",
+  "bin": "bin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "youtube",
+    "tags",
+    "keywords",
+    "metadata"
+  ],
+  "author": "Jeremy8100",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
